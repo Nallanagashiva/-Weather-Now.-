@@ -3,7 +3,7 @@ Weather Now is a simple React-based web application that allows users to quickly
 This project was built as part of a UI Take-Home Challenge
  Features
 - Search weather by city name
-- Fetches real-time data from [Open-Meteo API](https://open-meteo.com/)
+- Fetches real-time data from [https://github.com/Nallanagashiva/-Weather-Now.-.git]
 - Displays temperature, wind speed, and weather condition code
 - Responsive design (works on desktop & mobile)
 - Error handling for invalid city names or failed requests
